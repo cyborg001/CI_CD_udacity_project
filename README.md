@@ -1,5 +1,6 @@
 # CI_CD_udacity_project
-Build a CI/CD Pipeline project
+Build a CI/CD Pipeline project. Locally we create a webapp and we will run some test in the build enviroment
+and create a deployment enviroment where we will deploy a web app.
 
 # Screenshot of Github
 Take a screenshot of passing Github Actions Build:
